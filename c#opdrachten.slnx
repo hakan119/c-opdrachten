@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="c#opdrachten/c#opdrachten.csproj" />
+  <Project Path="opdracht2/opdracht2.csproj" Id="5b0495cf-7932-46d9-badc-b457abe51b7c" />
+  <Project Path="opdracht3/opdracht3.csproj" Id="ec68bc80-fb12-4414-88a4-0f1d7ece55f9" />
   <Project Path="opdracht_1/opdracht_1.csproj" />
 </Solution>
