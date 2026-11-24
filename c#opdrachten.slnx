@@ -1,6 +1,14 @@
 <Solution>
-  <Project Path="c#opdrachten/c#opdrachten.csproj" />
+  <Project Path="c#opdrachten/opdracht 11.csproj" />
+  <Project Path="opdracht 10/opdracht 10.csproj" Id="b303dd11-0f01-4ebc-9dfc-3ce7903828c1" />
+  <Project Path="opdracht 5/opdracht 5.csproj" Id="f2d75a6a-17e1-4f84-ae1c-a932babe9b30" />
+  <Project Path="opdracht 6/opdracht 6.csproj" Id="2e9f3480-3def-4106-9853-a21d30fed970" />
+  <Project Path="opdracht 7/opdracht 7.csproj" Id="ccd9fb96-317c-479c-bc41-d3ea038f2d9b" />
+  <Project Path="opdracht 8/opdracht 8.csproj" Id="b5307bc7-cfdd-4a77-b7d5-b723673eb7d9" />
+  <Project Path="opdracht 9/opdracht 9.csproj" Id="ab16a838-8a3b-409e-a802-9681fddae7ae" />
+  <Project Path="opdracht/opdracht 12.csproj" Id="d9c9a72c-2f83-4030-b221-65beb8f883ef" />
   <Project Path="opdracht2/opdracht2.csproj" Id="5b0495cf-7932-46d9-badc-b457abe51b7c" />
   <Project Path="opdracht3/opdracht3.csproj" Id="ec68bc80-fb12-4414-88a4-0f1d7ece55f9" />
+  <Project Path="opdracht4/opdracht4.csproj" Id="eb9e4db0-87c2-42d8-a47b-fd799d8658b0" />
   <Project Path="opdracht_1/opdracht_1.csproj" />
 </Solution>
